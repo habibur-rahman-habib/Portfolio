@@ -598,4 +598,8 @@ section {
   transform: translate(-50%, -50%);
   font-weight: 800;
   font-size: 4.5rem;
+}
+
+.scroll::-webkit-scrollbar {
+  display: none;
 }/*# sourceMappingURL=styles.css.map */
